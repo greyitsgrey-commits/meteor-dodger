@@ -2,7 +2,7 @@
 
 A space dodging game made by Nathan de Waal.
 
-**Play it:** https://USERNAME.github.io/meteor-dodger/
+**Play it:** https://greyitsgrey-commits.github.io/meteor-dodger/
 
 ## How to play
 
